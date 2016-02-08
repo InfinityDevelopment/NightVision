@@ -1,0 +1,9 @@
+name: NightVision
+main: com.infinity.night_vision.NightVision
+version: 1.0
+author: xXInfinityXx
+description: Upgraded example version of http://www.spigotmc.org/resources/nightvision.4943/.
+commands:
+  nv:
+    description: Main Night Vision command.
+    usage: /<command> 
